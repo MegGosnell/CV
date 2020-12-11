@@ -1,6 +1,6 @@
-Megan Gosnell 
+## Megan Gosnell 
 
-I am a highly motivated, enthusiastic post-graduate with a passion for tech and a thrill for problem solving. I have A Level’s in Media studies, English Literature and Design as well as a 2:1 BA Politics Degree from Goldsmiths University. Technology is exhilerating and is the fast moving pace of the new generation. I find working in such a creative industry but with different challenges on a day to day basis extremly rewarding. Getting stuck into a good coding problem leaves me continuously wanting to learn more and I find myself coding for hours without even realising.
+I'm not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success especially when working with code. I am a highly motivated, enthusiastic post-graduate with a passion for tech and a thrill for problem solving. I have A Level’s in Media studies, English Literature and Design as well as a 2:1 BA Politics Degree from Goldsmiths University. Technology is exhilerating and is the fast moving pace of the new generation. I am looking to work in a creative industry but with different challenges on a day to day basis as i find this extremly rewarding. Getting stuck into a good coding problem leaves me continuously wanting to learn more and I find myself coding for hours without even realising it.
 
 ## Projects
 
