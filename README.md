@@ -5,7 +5,11 @@
 <a href="https://www.linkedin.com/in/megan-gosnell-1b59b5208/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
+<<<<<<< HEAD
 [About me](#about-me) | [Project](#project) | [About my skills](#about-my-skills) |
+=======
+[About me](#about-me) | [Projects](#projects) |
+>>>>>>> caeb319a3e2f080abd91373d7a370fffd9c59e52
 
 </div>
 
