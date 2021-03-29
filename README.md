@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/megan-gosnell-1b59b5208/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-[About me](#about-me) | [Project](#project) |
+[About me](#about-me) | [Project](#project) | [About my skills](#about-my-skills) |
 
 </div>
 
@@ -25,6 +25,8 @@ I am looking forward to working in a creative industry along side a team of soft
 | SassTask   | A mobile todo-list app     | React Native, JavaScript, Jest | https://github.com/MegGosnell/SassTask           |
 | PipeFace   | A facebook styled web app. | Ruby, HTML, CSS, RSpec, RoRs   | https://github.com/MegGosnell/acebook--Pipeface- |
 | Makers-BnB | An AirBnB styled web app.  | Ruby, HTML, CSS, RSpec         | https://github.com/MegGosnell/MakersBnB          |
+
+## About my skills
 
 ## Experience
 
