@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/megan-gosnell-1b59b5208/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-[About me](#about-me) | [Project](#project) | [Skills](#skills) |
+[About me](#about-me) | [Project](#project) | [Skills](#skills) | [Work Experience](#work-experience)
 
 </div>
 
@@ -26,23 +26,89 @@ I am looking forward to working in a creative industry along side a team of soft
 | PipeFace   | A facebook styled web app. | Ruby, HTML, CSS, RSpec, RoRs   | https://github.com/MegGosnell/acebook--Pipeface- |
 | Makers-BnB | An AirBnB styled web app.  | Ruby, HTML, CSS, RSpec         | https://github.com/MegGosnell/MakersBnB          |
 
-## Experience
-
-\*\*Furest Day Lawson (January 2018 to April 2018)  
-_Accounts Admin_
-
-- My Roles include greeting customers, answering the phone, scanning, photocopying, booking flights, answering emails as they come through and handing out/sending off post.
-
 ## Skills
 
-## Education
+# Communication
 
-#### Makers Academy (23rd November 2020 to 26th March 2021)
+## Software skills
+
+# Makers Academy (23rd November 2020 to 26th March 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- React Native, Jest
+
+## Work Experience
+
+# Hospitality – Catering - Sarah Logan’s Kitchen
+
+- 2018-2019 Part Time
+
+# Key Achievements:
+
+- The ability to work efficiently and keep calm under pressure.
+- I was able to work well in teams
+- I further developed my communication skills with the general public.
+
+---
+
+# Waitress/ bar tender- The Chandos, Brockley rise -
+
+- July – November 2017
+
+# Key Achievements:
+
+- Good social skills which included greeting and serving customers.
+
+---
+
+# Sales assistant – French connection – Oxford Street, London
+
+- June 28th 2014- July 2015
+
+# Key Achievements:
+
+- Greeting customers, attending to their needs, such as, checking an item of stock as well as tidying, folding clothes and using the till on a daily basis. I learnt skills such as counting money in an efficient manner. I regularly received bonus’s each month as I exceeded my hourly target of selling.
+
+---
+
+# Admin Assistant – Philip Williams Properties Ltd – Stratford, London
+
+- Jul-13 to Sep-13
+
+# Key Achievements:
+
+- Sorting out the post
+- Answering the phones
+- Ordering office stationery supplies
+- Greeting Customers
+- Data Entry and Filing
+
+---
+
+# Teaching Assistant – Heber Primary School East Dulwich SE22 9LA
+
+- September 2019 – March 2020 – Year 2
+- June – July 2020 – Reception
+
+# Key Achievements:
+
+- Organizing the classroom ready for lessons in Year 2 and setting up the learning environment in Reception, both inside and outdoors
+- Writing observations and completing assessments for children in Reception and Year 2
+- Supporting Receptions transition following their return to school in June as well as their transition into Year 1
+- Working with groups of children and individual children to help complete their tasks.
+- Helping teachers to plan learning activities and complete records
+- I led literacy tracks 3 days a weeks after school
+- I ran specialist interventions for children who were identified as SEND
+- Supporting teachers in managing class behavior
+- Listening to children read, reading to them and telling them stories
+- Taught small group phonic lessons for Reception aged children
+- Organized afterschool club activities
+- Talking and liaising with parents day to day
+
+## Education
 
 #### Goldsmiths University (September 2016 to May 2019)
 
