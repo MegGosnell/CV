@@ -54,23 +54,15 @@ I am looking forward to working in a creative industry along side a team of soft
 
 ---
 
-### Waitress/ bar tender- The Chandos, Brockley rise -
-
-- July – November 2017
-
-#### Key Achievements:
-
-- Good social skills which included greeting and serving customers.
-
----
-
 ### Sales assistant – French connection – Oxford Street, London
 
 - June 28th 2014- July 2015
 
 #### Key Achievements:
 
-- Greeting customers, attending to their needs, such as, checking an item of stock as well as tidying, folding clothes and using the till on a daily basis. I learnt skills such as counting money in an efficient manner. I regularly received bonus’s each month as I exceeded my hourly target of selling.
+- Greeting customers
+- Attending to customers needs, such as, checking an item of stock as well as tidying, folding clothes and using the till on a daily basis.
+- I learnt skills such as counting money in an efficient manner.
 
 ---
 
