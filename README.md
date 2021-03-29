@@ -40,13 +40,13 @@ I am looking forward to working in a creative industry along side a team of soft
 - RSpec, Jasmine
 - React Native, Jest
 
-## Work Experience
+# Work Experience
 
-# Hospitality – Catering - Sarah Logan’s Kitchen
+## Hospitality – Catering - Sarah Logan’s Kitchen
 
 - 2018-2019 Part Time
 
-# Key Achievements:
+## Key Achievements:
 
 - The ability to work efficiently and keep calm under pressure.
 - I was able to work well in teams
@@ -54,31 +54,31 @@ I am looking forward to working in a creative industry along side a team of soft
 
 ---
 
-# Waitress/ bar tender- The Chandos, Brockley rise -
+## Waitress/ bar tender- The Chandos, Brockley rise -
 
 - July – November 2017
 
-# Key Achievements:
+## Key Achievements:
 
 - Good social skills which included greeting and serving customers.
 
 ---
 
-# Sales assistant – French connection – Oxford Street, London
+## Sales assistant – French connection – Oxford Street, London
 
 - June 28th 2014- July 2015
 
-# Key Achievements:
+## Key Achievements:
 
 - Greeting customers, attending to their needs, such as, checking an item of stock as well as tidying, folding clothes and using the till on a daily basis. I learnt skills such as counting money in an efficient manner. I regularly received bonus’s each month as I exceeded my hourly target of selling.
 
 ---
 
-# Admin Assistant – Philip Williams Properties Ltd – Stratford, London
+## Admin Assistant – Philip Williams Properties Ltd – Stratford, London
 
 - Jul-13 to Sep-13
 
-# Key Achievements:
+## Key Achievements:
 
 - Sorting out the post
 - Answering the phones
@@ -88,12 +88,12 @@ I am looking forward to working in a creative industry along side a team of soft
 
 ---
 
-# Teaching Assistant – Heber Primary School East Dulwich SE22 9LA
+## Teaching Assistant – Heber Primary School East Dulwich SE22 9LA
 
 - September 2019 – March 2020 – Year 2
 - June – July 2020 – Reception
 
-# Key Achievements:
+## Key Achievements:
 
 - Organizing the classroom ready for lessons in Year 2 and setting up the learning environment in Reception, both inside and outdoors
 - Writing observations and completing assessments for children in Reception and Year 2
