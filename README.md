@@ -129,3 +129,7 @@ I am looking forward to working in a creative industry along side a team of soft
 - ICT
 
 ## Hobbies
+
+- Reading - I love books! I could read all day every day.
+- Weight training - I try to live by a healthy lifestyle 90% of the time.
+- Travelling - Exploring the world we live in is a life goal of mine.
