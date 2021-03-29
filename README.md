@@ -1,7 +1,5 @@
 ## Megan Gosnell 
 
-[About Me] (#About Me)
-
 
 ## About me
 
