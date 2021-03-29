@@ -12,7 +12,7 @@ With the technology industy being the fast moving pace of the new generation, I 
 
 My experience at Makers has fuelled my commitment of self development and has taught me not only how to write code but how to learn these skills, as well as key industry practices such as an agile development process and TDD.
 
-I am looking forward to working in a creative industry along side a team of software engineers where I can continue to develop my coding skills and to continue to grow further as a developer.
+I am looking forward to working in a creative industry along side a team of software engineers where I can continue to develop my coding skills and to grow further as a developer.
 
 ## Projects
 
