@@ -20,11 +20,11 @@ I am looking forward to working in a creative industry along side a team of soft
 
 ## Projects
 
-| Name       | Description                | Tech/tools                     | link to repo                             |
-| ---------- | -------------------------- | ------------------------------ | ---------------------------------------- |
-| SassTask   | A mobile todo-list app     | React Native, JavaScript, Jest | https://github.com/MegGosnell/SassTask   |
-| PipeFace   | A facebook styled web app. | Ruby, HTML, CSS, RSpec, RoRs   | github.com/MegGosnell/acebook--Pipeface- |
-| Makers-BnB | An AirBnB styled web app.  | Ruby, HTML, CSS, RSpec         | https://github.com/MegGosnell/MakersBnB  |
+| Name       | Description                | Tech/tools                     | link to repo                                     |
+| ---------- | -------------------------- | ------------------------------ | ------------------------------------------------ |
+| SassTask   | A mobile todo-list app     | React Native, JavaScript, Jest | https://github.com/MegGosnell/SassTask           |
+| PipeFace   | A facebook styled web app. | Ruby, HTML, CSS, RSpec, RoRs   | https://github.com/MegGosnell/acebook--Pipeface- |
+| Makers-BnB | An AirBnB styled web app.  | Ruby, HTML, CSS, RSpec         | https://github.com/MegGosnell/MakersBnB          |
 
 ## Experience
 
