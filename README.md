@@ -1,6 +1,6 @@
 ## Megan Gosnell
 
-[Aboutme](#aboutme)
+[About me](#about-me)
 
 ## [Aboutme](#Aboutme):
 
