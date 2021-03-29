@@ -5,11 +5,7 @@
 <a href="https://www.linkedin.com/in/megan-gosnell-1b59b5208/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-<<<<<<< HEAD
-[About me](#about-me) | [Project](#project) | [About my skills](#about-my-skills) |
-=======
-[About me](#about-me) | [Projects](#projects) |
->>>>>>> caeb319a3e2f080abd91373d7a370fffd9c59e52
+[About me](#about-me) | [Project](#project) | [Skills](#skills) |
 
 </div>
 
@@ -30,8 +26,6 @@ I am looking forward to working in a creative industry along side a team of soft
 | PipeFace   | A facebook styled web app. | Ruby, HTML, CSS, RSpec, RoRs   | https://github.com/MegGosnell/acebook--Pipeface- |
 | Makers-BnB | An AirBnB styled web app.  | Ruby, HTML, CSS, RSpec         | https://github.com/MegGosnell/MakersBnB          |
 
-## About my skills
-
 ## Experience
 
 \*\*Furest Day Lawson (January 2018 to April 2018)  
@@ -40,23 +34,6 @@ _Accounts Admin_
 - My Roles include greeting customers, answering the phone, scanning, photocopying, booking flights, answering emails as they come through and handing out/sending off post.
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -81,11 +58,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Prendergast Hilly Fields College - GSCE (Spetember 2008 - June 2013)
 
-- English Literature A
-- English Language B
-- Math C
-- Geography C
-- Design Technology B
-- Religious Studies B
+- English Literature
+- English Language
+- Math
+- Geography
+- Design Technology
+- Religious Studies
 
 #### Hobbies
