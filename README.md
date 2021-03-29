@@ -1,6 +1,13 @@
-## Megan Gosnell 
+## Megan Gosnell
 
-I'm not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success when working in Software Development. I am a highly motivated, enthusiastic post-graduate with a passion for tech and a thrill for problem solving. I have A Level’s in Media studies, English Literature and Design as well as a 2:1 BA Politics Degree from Goldsmiths University. Technology is exhilerating and is the fast moving pace of the new generation. I am looking to work in a creative industry but with different challenges on a day to day basis as i find this extremly rewarding. Getting stuck into a good coding problem leaves me continuously wanting to learn more and I find myself coding for hours without even realising it.
+## About me
+
+I'm not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success when working in Software Development. I am a highly motivated, enthusiastic post-graduate with a passion for tech and a thrill for problem solving. I have A Level’s in Media studies, English Literature and Design as well as a 2:1 BA Politics Degree from Goldsmiths University.
+With the technology industy being the fast moving pace of the new generation, I knew it was something I wanted to be a part of. I look forward to the new opportunities ahead, to continue bettering myself, and to continue developing my skills further.
+
+My experience at Makers has fuelled my commitment of self development and has taught me not only how to write code but how to learn these skills, as well as key industry practices such as an agile development process and TDD.
+
+I am looking forward to working in a creative industry along side a team of software engineers where I can continue to develop my coding skills and grow further as a developer.
 
 ## Projects
 
@@ -11,10 +18,10 @@ I'm not afraid of failure. In fact, I think it is an essential part of the exper
 
 ## Experience
 
-**Furest Day Lawson (January 2018 to April 2018)  
-_Accounts Admin_ 
+\*\*Furest Day Lawson (January 2018 to April 2018)  
+_Accounts Admin_
 
-- My Roles include greeting customers, answering the phone, scanning, photocopying, booking flights, answering emails as they come through and handing out/sending off post. 
+- My Roles include greeting customers, answering the phone, scanning, photocopying, booking flights, answering emails as they come through and handing out/sending off post.
 
 ## Skills
 
@@ -47,25 +54,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Goldsmiths University (September 2016 to May 2019)
 
 - BA Politics
-- 2:1 
-
+- 2:1
 
 #### Prendergast Hilly Fields College - ALEVEL (September 2013 - June 2016)
 
--	English Literature 
--	Media Studies 
--	Health and Social care 
--	Design 
+- English Literature
+- Media Studies
+- Health and Social care
+- Design
 
 #### Prendergast Hilly Fields College - GSCE (Spetember 2008 - June 2013)
+
 - English Literature A
--	English Language B
--	Math C
--	Geography C
--	Design Technology B
+- English Language B
+- Math C
+- Geography C
+- Design Technology B
 
-
-
-#### Hobbies 
-
-
+#### Hobbies
