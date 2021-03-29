@@ -30,7 +30,7 @@ I am looking forward to working in a creative industry along side a team of soft
 
 ### Communication
 
-## Software skills
+### Software skills
 
 #### Makers Academy (23rd November 2020 to 26th March 2021)
 
