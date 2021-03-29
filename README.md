@@ -1,5 +1,8 @@
 ## Megan Gosnell 
 
+[About Me] (#About Me)
+
+
 ## About me
 
 I'm not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success when working in Software Development. I am a highly motivated, enthusiastic post-graduate with a passion for tech and a thrill for problem solving. I have A Level’s in Media studies, English Literature and Design as well as a 2:1 BA Politics Degree from Goldsmiths University.
