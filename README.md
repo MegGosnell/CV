@@ -116,15 +116,16 @@ I am looking forward to working in a creative industry along side a team of soft
 - English Literature
 - Media Studies
 - Health and Social care
-- Design
+- Design and Technology
 
 #### Prendergast Hilly Fields College - GSCE (Spetember 2008 - June 2013)
 
 - English Literature
 - English Language
-- Math
+- Maths
 - Geography
-- Design Technology
+- Design and Technology
 - Religious Studies
+- ICT
 
 ## Hobbies
