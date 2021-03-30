@@ -30,9 +30,11 @@ I am looking forward to working in a creative industry alongside a team of softw
 
 ### Communication
 
-Good communication is the key when working in a team and I place great emphasis on developing good working relationships with my fellow collegues. People say that they find me approachable, easy to talk to and responsive to their needs. When working as a Teaching Assistant I would regularly update the class teacher on the interventions I ran and provided overviews of the childrens progress in an efficent manner.
+Good communication is the key when working in a team and I place great emphasis on developing good working relationships with my fellow collegues. People say that they find me approachable, easy to talk to and responsive to their needs. When working as a Teaching Assistant I would regularly update the class teacher on the interventions I ran and provided overviews in an efficient manner of the childrens progress.
 
 ### Teamwork
+
+In my first two months as a teaching assistant, I was apart of an Ofsted inspection at the school that I worked in. During this visit I was observed and called upon last minute as part of the team to answer questions regarding the teaching and learning of the children in my year group. Despite my lack of experience, I received excellent feedback and was told I was an asset to the school. This experience enabled me to take on the challenges I faced on a weekly basis whilst at Makers Academy. I was able to integrate myself confidently into the different teams I worked in, I was assertive when dealing with problems, but also calm and supportive with those around me.
 
 ### Software skills
 
