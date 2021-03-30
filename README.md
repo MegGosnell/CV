@@ -30,9 +30,9 @@ I am looking forward to working in a creative industry alongside a team of softw
 
 ### Communication
 
-### Teamwork
+Good communication is the key when working in a team and I place great emphasis on developing good working relationships with my fellow collegues. People say that they find me approachable, easy to talk to and responsive to their needs. When working as a Teaching Assistant I would regularly update the class teacher on the interventions I ran and provided overviews of the childrens progress in an efficent manner.
 
-### Leadership
+### Teamwork
 
 ### Software skills
 
