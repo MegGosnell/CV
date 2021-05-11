@@ -120,7 +120,7 @@ In my first two months as a teaching assistant, I was apart of an Ofsted inspect
 - Health and Social care
 - Design and Technology
 
-#### Prendergast Hilly Fields College - GSCE (Spetember 2008 - June 2013)
+#### Prendergast Hilly Fields College - GSCE (September 2008 - June 2013)
 
 - English Literature
 - English Language
